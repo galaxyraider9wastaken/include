@@ -1,2 +1,2 @@
 const pass = "enter";
-const allowed = ["1omdahms", "1rkbrewer"]
+const allowed = 0// ["1omdahms", "1rkbrewer"]
